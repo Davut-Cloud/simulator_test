@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:simulator_test/Aboutme_screen.dart';
+import 'package:simulator_test/about%20me_screen.dart';
 import 'gallery_data.dart';
 import 'detail_screen.dart';
 

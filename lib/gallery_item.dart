@@ -1,8 +1,8 @@
 class GalleryItem {
-  String imageTitle;
-  String imageDate;
-  String imageDescription;
-  String imagePath;
+  final String imageTitle;
+  final String imageDate;
+  final String imageDescription;
+  final String imagePath;
 
   GalleryItem({
     required this.imageTitle,
